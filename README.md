@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-    <img alt="awesome" src="arn.svg" width="480" />
+    <img alt="Bodacious React Native" src="BODACIOUS.png" />
 </p><br/>
 <br/>
 <br/>
