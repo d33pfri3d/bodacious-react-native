@@ -7,36 +7,10 @@
 </p><br/>
 <br/>
 <br/>
-Awesome React Native is an awesome style list that curates the best React Native libraries,
-tools, tutorials, articles and more. PRs are welcome!
+Bodacious React Native is an awesome style list that curates the best React Native libraries, tools, tutorials, articles and more. PRs are welcome!
 
 <br/>
 <br/>
-
-<p align="center">
-<a href="https://bit.ly/arn-wkly">Don't miss out! Subscribe to our weekly newsletter</a>
-</p>
-<br/>
-<br/>
-
-<img
-src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
-alt="Build Status" />
-
-
-
-## Sponsors
-
-### _Never leave your command line for secrets_
-
-<a href="https://github.com/spectralops/teller"><img src="https://github.com/SpectralOps/teller/raw/master/media/cover.png"/></a>
-
-_Teller is an OSS and FREE productivity secret manager for developers made by [SpectralOps](https://github.com/spectralops/teller), supporting cloud-native apps and multiple cloud providers. Mix and match all vaults and other key stores and safely use secrets as you code, test, and build applications. It's quick, easy, and safe._
-
-[Get Started Now!](https://github.com/spectralops/teller)
-
-
-
 
 # Categories
 
