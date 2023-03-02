@@ -5,6 +5,12 @@
 <p align="center">
     <img alt="Bodacious React Native" src="BODACIOUS.png" />
 </p><br/>
+
+# CONTRIBUTING
+
+This was a fork of an older list and needs TLC. Im doing what I can, but if you want to help - feel free to start opening PRs or even join the discussions board to add ideas and thoughts on how to move this forwards. 
+
+
 <br/>
 <br/>
 Bodacious React Native is an awesome style list that curates the best React Native libraries, tools, tutorials, articles and more. PRs are welcome!
